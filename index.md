@@ -1,1 +1,2 @@
 # hier steht der Titel
+Das ist die Beschreibung des Charakters Santa Claus. Er ist eine ganz besondere Schneeflocke weil er eine Ausbildung bei der IHK absolviert hat. Seine Reentiere sind auch sehr schlau.
