@@ -9,4 +9,4 @@ Das ist die Beschreibung des Charakters Santa Claus. Er ist eine ganz besondere 
 ### As Santa Claus said:
 > Hohoho
 
-<img src="https://commons.wikimedia.org/wiki/File:20121123_SantaClaus-Chicago.JPG"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/20121123_SantaClaus-Chicago.JPG/800px-20121123_SantaClaus-Chicago.JPG"/>
