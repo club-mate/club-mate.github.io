@@ -5,3 +5,6 @@ Das ist die Beschreibung des Charakters Santa Claus. Er ist eine ganz besondere 
 * Santa hat ne rote Mütze
 * Sein Vater hiess Claus mit Nachname
 * Seine Handschuhe sind auch rot
+
+### As Santa Claus said:
+> Hohoho
